@@ -1,0 +1,13 @@
+import java.util.*;
+
+public class arrayTools {
+  public static void forArray(Object[] array1d, ) {
+
+  }
+
+  public static void forArray(Object[][] array2d, ) {
+
+  }
+
+
+}
